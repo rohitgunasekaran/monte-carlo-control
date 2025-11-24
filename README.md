@@ -86,9 +86,11 @@ def mc_control(env,
 
 ### Output
 
-![Screenshot 2025-05-14 153231](https://github.com/user-attachments/assets/23e77612-95c8-418a-82e7-a289ea67f8fb)
+<img width="842" height="266" alt="image" src="https://github.com/user-attachments/assets/211588e3-70f9-4eca-ae84-4959cb4d7929" />
 
-![Screenshot 2025-05-14 153243](https://github.com/user-attachments/assets/23064692-e051-4666-82f0-b818d7b22c3f)
+<img width="541" height="59" alt="image" src="https://github.com/user-attachments/assets/430a3b36-94bb-4e43-82d5-d5d23dec930d" />
+
+
 
 
 ## RESULT:
